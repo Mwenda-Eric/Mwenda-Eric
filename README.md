@@ -13,7 +13,7 @@
  </p>
  
  ### Spotify 🎧 - Listening to:
- ![Erics Playlist](https://spotify-recently-played-readme.vercel.app/api?user=31peigoadcpan23gue2aj5qf4rze&count={5}) 
+ ![Erics Playlist](https://spotify-recently-played-readme.vercel.app/api?user=31peigoadcpan23gue2aj5qf4rze&count=5) 
 <!---
 Mwenda-Eric/Mwenda-Eric is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
