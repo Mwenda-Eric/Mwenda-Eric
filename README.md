@@ -12,13 +12,13 @@
   </a>&nbsp;&nbsp;
  </p>
  
- ### Spotify 🎧 - Listening to:
+<!--  ### Spotify 🎧 - Listening to:
 
  <p align="center">
 <a href="https://spotify-github-profile.vercel.app/api/view?uid=31peigoadcpan23gue2aj5qf4rze&redirect=true">
   <img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=31peigoadcpan23gue2aj5qf4rze&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=true"/>
 </a>
-</p>
+</p> -->
  
 <!---
 Mwenda-Eric/Mwenda-Eric is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
