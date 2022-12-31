@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Eric Mwenda
-- 🎮 A passionate Game Developer.
+- 🎮 A Professional Game Developer.
 - 🖥️ I'm also a Backend Engineer.
 - 📫 Reach me eric.mwenda@icloud.com
 
