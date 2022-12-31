@@ -1,5 +1,8 @@
-- 👋 Hi, I’m Eric Mwenda
-- 🎮 A Professional Game Developer.
+<h1 align="center">Hi there? Eric here! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+
+<h3 align="center">🎮I'm a Professional Game Developer🎮</h3>
+
+- 🎮 An Augmented Reality Engineer.
 - 🖥️ I'm also a Backend Engineer.
 - 📫 Reach me eric.mwenda@icloud.com
 
