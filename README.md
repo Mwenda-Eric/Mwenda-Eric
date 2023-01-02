@@ -2,7 +2,8 @@
 
 <h3 align="center">🎮I'm a Professional Game Developer🎮</h3>
 
-- 🎮 An Augmented Reality Engineer.
+- 💻 Here is my [RESUME](https://drive.google.com/file/d/1ZDABHgJfa7_Z1LR78NGg-3EuSpb4ZVBC/view?usp=share_link).
+- 🎮 I'm an Augmented Reality Engineer.
 - 🖥️ I'm also a Backend Engineer.
 - 📫 Reach me eric.mwenda@icloud.com
 
