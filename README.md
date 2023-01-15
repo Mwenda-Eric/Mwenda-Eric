@@ -1,10 +1,10 @@
 <h1 align="center">Hi there? Eric here! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
-<h3 align="center">🎮I'm a Professional Game Developer🎮</h3>
+<h3 align="center">🎮I'm a Professional Game Developer & and an iOS Engineer🎮</h3>
 
 - 💻 Here is my [RESUME](https://drive.google.com/file/d/1ZDABHgJfa7_Z1LR78NGg-3EuSpb4ZVBC/view?usp=share_link).
-- 🎮 I'm an Augmented Reality Engineer.
-- 🖥️ I'm also a Backend Engineer.
+- 🎮 I'm a Backend Reality Engineer.
+- 🖥️ I'm also an Augmented Reality Engineer.
 - 📫 Mail me eric.mwenda@icloud.com
 
 <p align="center">
