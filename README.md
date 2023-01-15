@@ -1,6 +1,6 @@
 <h1 align="center">Hi there? Eric here! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
-<h3 align="center">🎮I'm a Professional Game Developer & an iOS Engineer🎮</h3>
+<h3 align="center">🎮I'm a Professional Game Developer & an iOS Engineer📱</h3> 
 
 - 💻 Here is my [RESUME](https://drive.google.com/file/d/1ZDABHgJfa7_Z1LR78NGg-3EuSpb4ZVBC/view?usp=share_link).
 - 🎮 I'm a Backend Reality Engineer.
