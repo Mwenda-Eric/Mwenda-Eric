@@ -2,7 +2,7 @@
 
 <h3 align="center">🎮I'm a Professional Game Developer & an iOS Engineer📱</h3> 
 
-- 💻 Here is my [RESUME](https://drive.google.com/file/d/1ZDABHgJfa7_Z1LR78NGg-3EuSpb4ZVBC/view?usp=share_link).
+- 💻 Here is my [RESUME](https://storage.googleapis.com/turing_developers/resume/1674097888779_1436732_enriquemwenda5.pdf).
 - 🎮 I'm a Backend Engineer.
 - 🖥️ I'm also an Augmented Reality Engineer.
 - 📫 Mail me eric.mwenda@icloud.com
