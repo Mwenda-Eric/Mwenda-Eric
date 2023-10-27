@@ -18,7 +18,7 @@
  
  - I'm a Music Addict So I created a 3D Music Streaming game [HERE](https://www.youtube.com/watch?v=7tuYqxr-N44)
  ### On Spotify 🎧 - I'm Listening to:
- ![Erics Playlist](https://spotify-recently-played-readme.vercel.app/api?user=31peigoadcpan23gue2aj5qf4rze&count=5) 
+ ![Erics Playlist](https://spotify-recently-played-readme.vercel.app/api?user=31peigoadcpan23gue2aj5qf4rze&count=1) 
 <!---
 Mwenda-Eric/Mwenda-Eric is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
