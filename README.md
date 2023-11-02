@@ -16,7 +16,7 @@
   </a>&nbsp;&nbsp;
  </p>
  
- - I'm a Music Addict So I created a 3D Music Streaming game [HERE](https://www.youtube.com/watch?v=7tuYqxr-N44)
+ - I have created a 3D Music Streaming game [HERE](https://www.youtube.com/watch?v=7tuYqxr-N44)
  ### On Spotify 🎧 - I'm Listening to:
  ![Erics Playlist](https://spotify-recently-played-readme.vercel.app/api?user=31peigoadcpan23gue2aj5qf4rze&count=1) 
 <!---
