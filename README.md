@@ -1,6 +1,6 @@
 <h1 align="center">Hi there? Eric here! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
-<h3 align="center">🎮I'm a Professional Game Developer & an iOS Engineer📱</h3> 
+<h3 align="center">🎮I'm a Professional Game Developer & a Backend Engineer</h3> 
 
 - 💻 Here is my [RESUME](https://storage.googleapis.com/turing_developers/resume/1690166428159_1436732_enriquemwenda5.pdf).
 - 🎮 I'm a Backend Engineer.
