@@ -2,7 +2,7 @@
 
 <h3 align="center">🎮I'm a Professional Game Developer & a Backend Engineer</h3> 
 
-- 💻 Here is my [RESUME](https://storage.googleapis.com/turing_developers/resume/1690166428159_1436732_enriquemwenda5.pdf).
+- 💻 Here is my [RESUME](https://drive.google.com/file/d/1b9W9xwlIm5h2ZHjN7rGzDeZb9Z0WOl66/view?usp=sharing).
 - 🎮 I'm a Backend Engineer.
 - 🖥️ I'm also an Augmented Reality Engineer.
 - 📫 Mail me eric.mwenda@icloud.com
